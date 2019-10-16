@@ -174,3 +174,8 @@ Here's a list of open TODOs
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/azine/geoblocking-bundle/badges/quality-score.png?s=c6d9068893471309c3de0cadd2cf9f8f51804c91)](https://scrutinizer-ci.com/g/azine/geoblocking-bundle/)
 [![Code Coverage](https://scrutinizer-ci.com/g/azine/geoblocking-bundle/badges/coverage.png?s=bb74d9f20c0797f3a49b57aad0ae3258666513cb)](https://scrutinizer-ci.com/g/azine/geoblocking-bundle/)
 [![Dependency Status](https://www.versioneye.com/user/projects/567eaea7eb4f47003c000015/badge.svg?style=flat)](https://www.versioneye.com/user/projects/567eaea7eb4f47003c000015)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falister%2FAzineMailgunWebhooksBundle.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falister%2FAzineMailgunWebhooksBundle?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falister%2FAzineMailgunWebhooksBundle.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falister%2FAzineMailgunWebhooksBundle?ref=badge_large)
